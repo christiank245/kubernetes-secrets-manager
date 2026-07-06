@@ -7,7 +7,7 @@ toolchain go1.24.1
 require (
 	github.com/charmbracelet/bubbles v0.20.0
 	github.com/charmbracelet/bubbletea v1.1.0
-	github.com/charmbracelet/lipgloss v0.13.0
+	github.com/charmbracelet/lipgloss/v2 v2.0.5
 	golang.org/x/term v0.25.0
 	gopkg.in/yaml.v3 v3.0.1
 	k8s.io/api v0.32.3
